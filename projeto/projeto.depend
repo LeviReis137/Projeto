@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1656052531 source:c:\users\admin\desktop\projeto\projeto\main.cpp
+	<iostream>
+	"Sculptor.h"
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	"figurageometrica.h"
+	"sculptor.h"
+	"putvoxel.h"
+	"cutvoxel.h"
+	"putbox.h"
+	"putellipsoid.h"
+	"putsphere.h"
+	"cutbox.h"
+	"cutellipsoid.h"
+	"cutsphere.h"
+
+1656051827 c:\users\admin\desktop\projeto\projeto\include\sculptor.h
+	<cmath>
+	<iostream>
+	<cstdlib>
+
+1656049037 source:c:\users\admin\desktop\projeto\projeto\src\sculptor.cpp
+	"Sculptor.h"
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<string>
+
+1656046022 source:c:\users\admin\desktop\projeto\projeto\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1656046022 c:\users\admin\desktop\projeto\projeto\include\figurageometrica.h
+	<sculptor.h>
+
+1656047738 source:c:\users\admin\desktop\projeto\projeto\src\putbox.cpp
+	"putbox.h"
+
+1656047653 c:\users\admin\desktop\projeto\projeto\include\putbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656050252 c:\users\admin\desktop\projeto\projeto\include\putvoxel.h
+	"figurageometrica.h"
+
+1656050354 c:\users\admin\desktop\projeto\projeto\include\cutvoxel.h
+	"figurageometrica.h"
+
+1656033097 c:\users\admin\desktop\projeto\projeto\include\putellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656052008 c:\users\admin\desktop\projeto\projeto\include\putsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656048217 c:\users\admin\desktop\projeto\projeto\include\cutbox.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656033097 c:\users\admin\desktop\projeto\projeto\include\cutellipsoid.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656052479 c:\users\admin\desktop\projeto\projeto\include\cutsphere.h
+	"figurageometrica.h"
+	"sculptor.h"
+
+1656049068 source:c:\users\admin\desktop\projeto\projeto\src\cutbox.cpp
+	"CutBox.h"
+
+1656052008 source:c:\users\admin\desktop\projeto\projeto\src\putsphere.cpp
+	"putsphere.h"
+	<math.h>
+
+1656050252 source:c:\users\admin\desktop\projeto\projeto\src\putvoxel.cpp
+	"putvoxel.h"
+
+1656050354 source:c:\users\admin\desktop\projeto\projeto\src\cutvoxel.cpp
+	"cutvoxel.h"
+
+1656053148 source:c:\users\admin\desktop\projeto\projeto\src\cutsphere.cpp
+	"cutsphere.h"
+
